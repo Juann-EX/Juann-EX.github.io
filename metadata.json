@@ -1,0 +1,7 @@
+{
+  "name": "MiRendimiento",
+  "description": "Herramienta personal e independiente para el análisis transparente, seguimiento y proyecciones de rendimiento académico estudiantil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
